@@ -1,0 +1,9 @@
+Tema 2. vectori de numere complexe
+
+Se dau urmatoarele clase: 
+	- Complex (float re,im) 
+	- Vector (int dim, Complex *v). 
+	- Stiva : Vector - cu operatiile de adaugare ?i stergere modificate corespunzator. 
+	- Coada: Vector - cu operatiile de adaugare ?i stergere modificate corespunzator.
+
+Clasele derivate trebuie sa contina cel pu?in constructori parametrizati prin care sa se evidentieze transmiterea parametrilor catre constructorul din clasa de baza, destructor si o metoda prin care sa verifice daca stiva / coada este pur "imaginara".

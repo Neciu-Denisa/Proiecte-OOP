@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1491381558 source:c:\users\anca\documents\rational\main.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	"rational.h"
+	"rational.cpp"
+
+1491380799 c:\users\anca\documents\rational\rational.h
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+
+1490776056 source:c:\users\anca\documents\rational\rational.cpp
+	"rational.h"
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+
+1491381575 c:\users\anca\documents\rational\rational.cpp
+	"rational.h"
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+

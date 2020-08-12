@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1491916334 source:h:\facultate\anul ii\semestrul ii\programare orientata pe obiecte\proiecte\poo2\list.cpp
+	<iostream>
+	"list.h"
+
+1491915866 h:\facultate\anul ii\semestrul ii\programare orientata pe obiecte\proiecte\poo2\list.h
+
+1491918809 source:h:\facultate\anul ii\semestrul ii\programare orientata pe obiecte\proiecte\poo2\main.cpp
+	<iostream>
+	<cstdlib>
+	"stack_list_vector.h"
+
+1491917797 h:\facultate\anul ii\semestrul ii\programare orientata pe obiecte\proiecte\poo2\stack_list_vector.h
+	"stack_list.h"
+	"vector.h"
+
+1491915849 h:\facultate\anul ii\semestrul ii\programare orientata pe obiecte\proiecte\poo2\stack_list.h
+	"stack.h"
+	"list.h"
+
+1491856020 h:\facultate\anul ii\semestrul ii\programare orientata pe obiecte\proiecte\poo2\stack.h
+
+1491856462 h:\facultate\anul ii\semestrul ii\programare orientata pe obiecte\proiecte\poo2\vector.h
+
+1491915491 source:h:\facultate\anul ii\semestrul ii\programare orientata pe obiecte\proiecte\poo2\stack.cpp
+	<iostream>
+	<cstdlib>
+	"stack.h"
+
+1491917957 source:h:\facultate\anul ii\semestrul ii\programare orientata pe obiecte\proiecte\poo2\stack_list.cpp
+	"stack_list.h"
+	<iostream>
+
+1491918845 source:h:\facultate\anul ii\semestrul ii\programare orientata pe obiecte\proiecte\poo2\stack_list_vector.cpp
+	<iostream>
+	"stack_list_vector.h"
+
+1491918029 source:h:\facultate\anul ii\semestrul ii\programare orientata pe obiecte\proiecte\poo2\vector.cpp
+	<iostream>
+	<cstdlib>
+	"vector.h"
+

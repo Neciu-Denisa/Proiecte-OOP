@@ -1,0 +1,26 @@
+I.3 Clasa "rational", avand:
+    - membrii privati pentru numarator si numitor (int);
+    - metoda privata pentru simplificare;
+    - constructori pentru initializare si copiere;
+    - metode publice pentru setat/furnizat numaratorul si numitorul;
+    - metoda publica pentru citire;
+    - metoda publica de afisare (sub forma "a", "a/b", "-a/b", dupa caz);
+    - metoda-operator publica de cast, de la rational la double;
+    - operatori friend: + (adunare), +(numarul insusi), - (scadere),
+       - (opus), * (inmultire), / (impartire), +=, -=, *=, /= (cu efectul
+       cunoscut), ^ (ridicare la putere naturala), == (test de egalitate),
+       != (test de neegalitate), <, <=, >, >= (comparatii); operatorii binari
+       +, -, *, /, ==, !=, <, <=, >, >= se scriu in cate trei variante, pentru
+       a putea lucra cu operanzi rational-rational, rational-intreg,
+       intreg-rational; operatorii +=, -=, *=, /= se scriu in cate doua
+       variante, pentru a putea lucra cu operanzi rational-rational,
+       rational-intreg; 
+    - functie friend "abs" (furnizeaza modulul).
+   Numerele rationale vor fi memorate sub forma lor canonica (adica 
+  numaratorul si numitorul sa fie prime intre ele iar numitorul sa fie > 0).
+  De aceea, implementarea operatiilor aritmetice se va face astfel incat la
+  sfarsit sa se faca automat si o simplificare;
+   Program de rezolvare a unui sistem de doua ecuatii liniare cu doua
+  necunoscute si coeficienti rationali.
+   Pentru clasa "rational" se va scrie un fisier header si un fisier de
+  implementare. Programul se va scrie ca un project.
